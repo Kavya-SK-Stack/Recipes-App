@@ -1,0 +1,19 @@
+{
+  "name": "recipes-app",
+  "version": "1.0.0",
+  "description": "Create a recipes app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kavya-SK-Stack/Recipes-App.git"
+  },
+  "author": "Kavya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kavya-SK-Stack/Recipes-App/issues"
+  },
+  "homepage": "https://github.com/Kavya-SK-Stack/Recipes-App#readme"
+}
